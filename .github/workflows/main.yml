@@ -9,7 +9,7 @@ jobs:
     
     steps:
     - name: print msg
-      run: echo" hi i am lachman das"
+      run: echo "hi i am lachman das"
       
     
     
